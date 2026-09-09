@@ -1,0 +1,8 @@
+my-research-website/
+├── app/                  <-- Layouts, pages, and routes (URLs)
+├── components/           <-- Reusable UI elements (buttons, navbar, modals)
+├── lib/                  <-- YOUR MAIN CONTENT DATA FILE (lib/data.ts)
+├── public/               <-- Uploaded files (PDFs, images, CSV datasets)
+├── content/ (or posts/)  <-- Markdown files for thoughts/papers (if used)
+├── package.json          <-- Installed packages list
+└── tailwind.config.ts    <-- Color palettes, fonts, and theme settings
