@@ -10,15 +10,15 @@ import {
 } from 'lucide-react';
 
 export const profile = {
-  name: 'Dr. Alex Chen',
-  shortName: 'Alex Chen',
-  title: 'Research Scientist',
-  affiliation: 'Institute for Computational Intelligence',
-  location: 'Cambridge, MA',
-  bio: 'I study how neural systems learn and adapt, working at the intersection of machine learning and computational neuroscience. My current research focuses on biologically plausible learning rules, neural coding in decision-making circuits, and building AI systems that can reason about their own uncertainty.',
+  name: 'Davincin',
+  shortName: 'Dave',
+  title: 'A researcher',
+  affiliation: 'Live,Laugh,Love',
+  location: 'Myanmar',
+  bio: 'I am a passionate researcher, my devotion is to explore every things that are necessary for daily life.',
   longBio:
-    'I am a research scientist investigating the principles of learning and computation in both biological and artificial systems. My work draws on methods from machine learning, neuroscience, and cognitive science to understand how brains and machines can learn from limited data, generalize to new situations, and reason under uncertainty.',
-  email: 'alex.chen@research.edu',
+    'I am a passionate researcher driven by curiosity and a deep desire to understand the world around me. My devotion is to explore the knowledge, ideas, technologies, and principles that shape our everyday lives—from the simplest practical challenges to complex problems that require deeper investigation. I believe research is not limited to laboratories, academic papers, or specialized fields. It is a continuous process of questioning, observing, learning, experimenting, and discovering better ways to understand and improve the world we live in. My interests span across disciplines, with a particular focus on exploring ideas that have meaningful connections to daily life. I enjoy examining how things work, why they work, where they can be improved, and how knowledge from different fields can be combined to create practical solutions. For me, research is a lifelong journey. Every question opens the door to another question, and every discovery creates an opportunity to learn something new. Through this journey, I hope to contribute useful knowledge, share what I learn, and transform curiosity into ideas that can make everyday life better.',
+  email: 'davie.kyawsoewin@gmail.com',
   socials: [
     { label: 'Google Scholar', href: 'https://scholar.google.com', icon: GraduationCap },
     { label: 'GitHub', href: 'https://github.com', icon: Github },
